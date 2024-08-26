@@ -595,7 +595,7 @@ Attenzione
 
 
  a| 
-Latenza volume ms/soglia critica operativa violata (ocumVolumeLatencyIncident)
+Soglia critica di latenza del volume violata (ocumVolumeLatencyIncident)
  a| 
 Incidente
  a| 
